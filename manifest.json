@@ -1,0 +1,17 @@
+{
+  "id": "anytime_rename",
+  "name": "Anytime Rename",
+  "version": "1.1.1",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "UI",
+  "github": "Roxas2712/pokemon-gen1-recomp-mod-anytime-rename",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "affects_link": false,
+  "description": "Rename the trainer and party Pokémon from the START menu, with automatic German localization."
+}

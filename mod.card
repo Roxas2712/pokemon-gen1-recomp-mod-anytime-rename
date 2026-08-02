@@ -1,0 +1,21 @@
+return {
+  summary = "Rename the trainer and party Pokémon directly from the START menu.",
+  tags = { "ui", "quality-of-life", "names", "localization" },
+  differences = {
+    changed = {
+      "the trainer name can be changed after starting the game",
+      "traded Pokémon may receive new nicknames",
+    },
+    added = {
+      "RENAME in the START menu",
+      "NICKNAME and NO NICK in each party Pokémon submenu",
+      "automatic German labels when a German translation mod is active",
+      "identity-safe OT updates for owned Pokémon after a trainer rename",
+    },
+    known = {
+      "renaming is available only while the normal START menu can be opened",
+      "boxed Pokémon must be withdrawn before their nickname can be changed",
+    },
+  },
+  compat = { engine = ">=0.0.0-0 <2.0.0", modApi = 2 },
+}
