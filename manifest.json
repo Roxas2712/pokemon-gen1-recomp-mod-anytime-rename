@@ -1,7 +1,7 @@
 {
   "id": "anytime_rename",
   "name": "Anytime Rename",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "api": 2,
   "entry": "main.lua",
   "profile": "content",
@@ -13,5 +13,5 @@
   "optional_dependencies": [],
   "conflicts": [],
   "affects_link": false,
-  "description": "Rename the trainer and party Pokémon from the START menu, with automatic German localization."
+  "description": "Rename the trainer, rival and party Pokémon from the START menu, with German and Gen2 support."
 }

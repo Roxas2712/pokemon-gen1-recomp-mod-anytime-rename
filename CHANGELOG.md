@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.2.0
+
+- fixed trainer renaming after the multi-game launcher/Gen2 update by using
+  the naming screen and stack behavior of the active generation
+- added a `RIVAL` / `RIVALE` START-menu action
+- rival names are stored in the correct Gen1 or Gen2 save field
+- trainer renaming continues to update the OT identity of owned party and
+  boxed Pokémon in both generations
+- expanded the ROM-free regression suite from 35 to 55 checks
+
 ## 1.1.1
 
 - clarified the Pokémon submenu labels so nickname removal cannot be
