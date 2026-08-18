@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.2.1
+
+- changed the release archive to the canonical
+  `anytime_rename-1.2.1.zip` name expected by the Gen1Recomp updater
+- excluded the development-only regression suite from the install archive
+- runtime behavior is unchanged from 1.2.0
+
 ## 1.2.0
 
 - fixed trainer renaming after the multi-game launcher/Gen2 update by using

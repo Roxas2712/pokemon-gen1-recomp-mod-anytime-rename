@@ -1,1 +1,2 @@
-tests/anytime_rename_test.lua
+tests/
+dist/

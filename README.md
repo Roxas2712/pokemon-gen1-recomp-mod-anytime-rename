@@ -44,7 +44,11 @@ the mod can then be disabled without reverting the names.
 
 ## Installation
 
-Select `Anytime-Rename-1.2.0.zip` in the Gen1Recomp mod manager.
+For an installed copy, use **Check for updates** in the Gen1Recomp launcher.
+Manual import intentionally does not overwrite a mod with the same ID.
+
+For a first install, select `anytime_rename-1.2.1.zip` in the mod manager. To
+update manually, remove the installed copy before importing the new archive.
 
 Alternatively, extract the archive into its own
 `mods/anytime_rename/` directory.
